@@ -1,0 +1,73 @@
+body {
+    font-family: 'Baloo Bhaina 2', cursive;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    background-color: hsl(330, 25%, 92%);
+    height: 1900px;
+}
+
+.container {
+    align-items: auto;
+    border: 10px  #3e3e3e ;
+    opacity:unset ;
+    margin: 97px auto;
+    padding: 66px 68px;
+    border-radius: 37px;
+    width: 36%;
+    background-color: rgb(163, 140, 151);
+
+}
+
+.form-group input {
+    font-family: 'Baloo Bhaina 2', cursive;
+    text-align: center;
+    display: flex;
+    
+    padding: 1px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 19px;
+    margin: 11px auto;
+
+}
+.container h1 {
+    text-shadow: 2px 2px 5px;
+    text-align: center;
+}
+
+
+
+.container button {
+    text-shadow: whitesmoke;
+    display: block;
+    width: 74%;
+    margin: 20px auto;
+    text-align: auto;
+
+
+}
+.container-fluid p{
+    color:rgb(194, 189, 189);
+
+}
+.container-fluid h2{
+    color:black
+}
+.card{
+    color: rgb(59, 58, 58);
+    display:solid;
+    width: 100%;
+    margin: 20px 20px;
+    padding: 10px;
+    text-align:start;
+    height: 50%;
+    background-color: rgb(245, 227, 236);
+    
+}
+.page-footer .container-fluid{
+    background-color: rgb(243, 166, 166);
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
