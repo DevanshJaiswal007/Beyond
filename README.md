@@ -18,8 +18,8 @@ https://devanshjaiswal007.github.io/Beyond/
 - [@ChandanaVasa](https://github.com/chandana444)
 - [@BhavyaYadav](https://github.com/bhavya152002)
 - [@AnvitaBandaru](https://github.com/Anvitaxbandaru)
-- [@YeshwanthVenkataPadala](https://github.com/bhavya152002)
-- [@AayushSaxena](https://github.com/bhavya152002)
+- [@YeshwanthVenkataPadala](https://github.com/yeshwanth1110)
+- [@AayushSaxena](https://github.com/aayushsaxena-02)
 
 ## Home page
 This page contains basic information about website and each window. You can navigate to any window of the website from this page. Also, you can explore the recommended outfits, accessories, top recommended websites and other recommended products through this page.
