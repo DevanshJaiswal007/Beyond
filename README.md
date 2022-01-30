@@ -1,5 +1,5 @@
 
-# BEYOND: a fashion styling website
+# BEYOND: A fashion styling website
 
 In the era of fast moving fashion, many people don’t know what suits them and what not , how to put outfits together, what to buy, and unaware of what to wear even if they have a closet full of clothes. Therefore, here we come up with a fashion styling website which solves all these mentioned problems. 
 
