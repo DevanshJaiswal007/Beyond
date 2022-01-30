@@ -26,6 +26,6 @@ This page contains basic information about website and each window. You can navi
  
 ## Tech Stack
 
-**Client:** HTML5, CSS3, Bootstrap CSS
+**Client:** HTML5, CSS3, BootstrapCSS
 
 
